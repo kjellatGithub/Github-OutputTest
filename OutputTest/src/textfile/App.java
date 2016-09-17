@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class App {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		long input, mode;
+		long input, mode;  //Utnyttjar ännu inte parametern - mode
 		String fname = ""; //Testart GIT för första gången
 		
 		Scanner scanner = new Scanner(System.in);
